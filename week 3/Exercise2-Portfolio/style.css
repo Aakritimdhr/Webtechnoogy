@@ -1,5 +1,5 @@
 *{
-    color: blue;
+    color: rgb(33, 55, 87);
     size: 12px;
 }
 body{
@@ -12,3 +12,18 @@ h1{
     border-width: 2px;
     border-color: black;
 }
+.redElement{
+    margin: 0 auto;
+    width: 1200px;
+    color: red;
+}
+#change{
+    color: aquamarine;
+}
+Input[type=“text”] {
+
+    font-size: 16px;
+    line-height: 1.2;
+    color: blue;
+    
+    }
