@@ -1,4 +1,9 @@
 *{
-    color: rgb(30, 94, 86);
-    size: 12px;
+    color: blue;
+    font-size: 12px;;
+}
+h1{
+    border: 1px solid #ccc;
+    font-size: 12px;
+    color: blueviolet;
 }
