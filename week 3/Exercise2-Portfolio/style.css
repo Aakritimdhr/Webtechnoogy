@@ -1,29 +1,26 @@
 *{
-    color: rgb(33, 55, 87);
-    size: 12px;
+    color: blue;
+    font-size: 12px;;
 }
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
-    background-color: rgb(120, 165, 42);
-    padding: 20px;
-    border-style: solid;
-    border-width: 2px;
-    border-color: black;
+    border: 1px solid #ccc;
+    font-size: 12px;
 }
 .redElement{
     margin: 0 auto;
     width: 1200px;
-    color: red;
 }
 #change{
-    color: aquamarine;
+    border: 1px solid #ccc;
+    font-size: 12px;
 }
-Input[type=“text”] {
-
-    font-size: 16px;
-    line-height: 1.2;
-    color: blue;
-    
+input[type="text"] {
+     padding: 10px;
+     font-size: 16px;
+     text-align: center;
     }
+    
+    
